@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32930.78
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Asrfly", "Asrfly\Asrfly.csproj", "{C078FFA4-80B1-4E8F-B81B-EAB811E2BA75}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Asrfly.Core", "Asrfly.Core\Asrfly.Core.csproj", "{1BEEEF16-A5AC-4BC4-A64B-6AF958D18844}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Asrfly.Data", "Asrfly.Data\Asrfly.Data.csproj", "{6F0DDF60-4C70-4BCF-8392-B7DEEBD08536}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C078FFA4-80B1-4E8F-B81B-EAB811E2BA75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C078FFA4-80B1-4E8F-B81B-EAB811E2BA75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C078FFA4-80B1-4E8F-B81B-EAB811E2BA75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C078FFA4-80B1-4E8F-B81B-EAB811E2BA75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BEEEF16-A5AC-4BC4-A64B-6AF958D18844}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BEEEF16-A5AC-4BC4-A64B-6AF958D18844}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BEEEF16-A5AC-4BC4-A64B-6AF958D18844}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BEEEF16-A5AC-4BC4-A64B-6AF958D18844}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F0DDF60-4C70-4BCF-8392-B7DEEBD08536}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F0DDF60-4C70-4BCF-8392-B7DEEBD08536}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F0DDF60-4C70-4BCF-8392-B7DEEBD08536}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F0DDF60-4C70-4BCF-8392-B7DEEBD08536}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BB80985-05D3-4440-9594-D9E95111E7A0}
+	EndGlobalSection
+EndGlobal
